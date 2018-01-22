@@ -1,4 +1,4 @@
-## Workbooks for DEVNET-3603 DNAC Workshop
+## Workbooks for DEVNET-3620 DNAC Workshop
 These iypthon workbooks will be used during the workshop
 
 ## Installation
