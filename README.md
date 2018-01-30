@@ -13,7 +13,14 @@ pip install -r requirements.txt
 
 ```
 
-Alternatively, you can execure the `./install.sh` script.
+Alternatively, you can execure the express installation into your home directory (if using a DevNet workstation)
+```
+cd
+git clone https://github.com/aradford123/DEVNET-3620.git
+cd DEVNET-3620
+./install.sh
+git clone https://github.com/CiscoDevNet/dnac-samples-aradford.git
+```
 
 After installation:
 
